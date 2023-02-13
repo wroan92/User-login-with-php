@@ -3,11 +3,11 @@ session_start();
 include_once 'dbh.inc.php';
 
 if (isset($_POST['submit_login'])) {
-    
+
     // Get login values
     $user = mysqli_real_escape_string($conn, $_POST['user_login']);
     $pwd = mysqli_real_escape_string($conn, $_POST['pwd_login']);
-    
+
     // Check if fields are empty 
     if (empty($user) || empty($pwd)) {
         echo "<script>alert('Please enter your login details');</script>";
@@ -44,6 +44,3 @@ if (isset($_POST['submit_login'])) {
     exit();
 }
 ?>
-
-
-

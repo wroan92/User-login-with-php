@@ -1,6 +1,3 @@
-<?php
-session_start();
-?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -14,7 +11,10 @@ session_start();
     <h2>
       Welcome
       <!-- Denne fungerer ikke? -->
-      <?php echo $_SESSION['u_first']; ?>
+      <?php 
+      session_start();
+      echo $_SESSION['u_first'];
+      ?>
       You have successfully logged in
     </h2>
   </body>
