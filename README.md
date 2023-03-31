@@ -1,5 +1,6 @@
 <a name="readme-top"></a>
 # User login and registration with php
+
 ![GitHub](https://img.shields.io/github/license/wroan92/User-login-with-php?style=flat-square)
 
 ![GitHub issues](https://img.shields.io/github/issues/wroan92/User-login-with-php?style=flat-square)
@@ -40,7 +41,7 @@ To use the application, navigate to the index.php file in your web browser. You 
 Once you've logged in, you'll see a welcome message with your username. You can log out by clicking the "Log out" link.
 
 ### License
-
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.tct) file for details.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>  
 <hr>
