@@ -14,9 +14,9 @@ This is a simple PHP application that allows users to create an account, log in,
 
 ### Built with
 
-- [![JavaScript][javascript-shield]][js-url]
-- [![HTML][html-shield]][html-url]
-- [![CSS][css-shield]][css-url]
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat)
+
 
 ### Getting Started
 To use this application, you'll need to set up a web server with PHP and MySQL installed. You can use a service like XAMPP to easily set up a development environment on your own computer.
