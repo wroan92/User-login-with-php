@@ -1,3 +1,1 @@
-- [![JavaScript][javascript-shield]][js-url]
-- [![HTML][html-shield]][html-url]
-- [![CSS][css-shield]][css-url]
+
