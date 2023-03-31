@@ -7,7 +7,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/wroan92/User-login-with-php?style=flat-square)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.tct) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
 ## Overwiew
 This is a simple PHP application that allows users to create an account, log in, and log out. It uses a MySQL database to store user information.
