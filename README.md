@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 # User login and registration with php
 
-![GitHub](https://img.shields.io/github/license.txt/wroan92/User-login-with-php?style=flat-square)
+![GitHub](https://img.shields.io/github/license/wroan92/User-login-with-php?style=flat-square)
 
 ![GitHub issues](https://img.shields.io/github/issues/wroan92/User-login-with-php?style=flat-square)
 
