@@ -1,6 +1,9 @@
 <a name="readme-top"></a>
 # User login and registration with php
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+For lisensinformasjon, se [license.txt](license.txt) filen.
+
 ![GitHub](https://img.shields.io/github/license/wroan92/User-login-with-php?style=flat-square)
 
 ![GitHub issues](https://img.shields.io/github/issues/wroan92/User-login-with-php?style=flat-square)
