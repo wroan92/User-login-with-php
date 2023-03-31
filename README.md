@@ -46,9 +46,3 @@ Once you've logged in, you'll see a welcome message with your username. You can 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>  
 <hr>
 
-[javascript-shield]: https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=black
-[js-url]: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
-[html-shield]: https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=HTML5&logoColor=white
-[html-url]: https://html.spec.whatwg.org/multipage/
-[css-shield]: https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=CSS3&logoColor=white
-[css-url]: https://www.w3.org/Style/CSS/Overview.en.html
